@@ -8,7 +8,7 @@ export const clients = defineStore('clients',{
       {
         title:"Tulip Cinema",
         description:" A non-governmental organization operates independently in the field of cinema, both physically and online.The organization was founded in 2018 and has been operating since then. I was responsible for the development of the backend of the website, which was developed using the Laravel framework. ",
-        image:"../..//src/assets/img/tulip.png",
+        image:"/src/assets/img/tulip.png",
         link:"https://tulipcinema.com/",
       },
 

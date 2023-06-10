@@ -57,7 +57,7 @@ router.afterEach(() => {
 
       <div class="hidden fixed top-0 left-0 w-full h-screen bg-slate-900 bg-opacity-90 z-50" id="mobile-menu">
         <div class="flex justify-between items-center px-3 py-3 bg-slate-900">
-          <img class="w-24" src="../assets/img/logo.png" alt="">
+          <img class="w-24" src="/assets/img/logo.png" alt="">
           <font-awesome-icon @click="close()" class="text-2xl" :icon="['fas', 'times']" />
         </div>
         <div class="flex flex-col items-center justify-center h-full gap-5">
