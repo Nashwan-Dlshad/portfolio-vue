@@ -45,7 +45,7 @@ router.afterEach(() => {
   <header class="h-12 antialiased   text-white
     bg-slate-900 flex items-center lg:p-8 py-8 px-3 gap-5 justify-between">
        <div class="flex gap-5 items-center">
-        <img class="w-24" src="../assets/img/logo.png" alt="">
+        <img class="w-24" src="/assets/img/logo.png" alt="">
       <nav class="lg:flex gap-2 hidden">
         <RouterLink to="/#home" class="" >Home</RouterLink>
         <RouterLink to="/#skills" class="">Skills</RouterLink>
