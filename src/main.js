@@ -13,12 +13,12 @@ import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
 /* import specific icons */
-import { faMoon, faSun, faDatabase} from '@fortawesome/free-solid-svg-icons'
+import { faMoon, faSun, faDatabase, faBars, faClose} from '@fortawesome/free-solid-svg-icons'
 // free brands svg icon
 import { faPhp, faHtml5, faJsSquare, faCss3, faVuejs, faLaravel, faNode, faFacebook, faInstagram, faLinkedin} from '@fortawesome/free-brands-svg-icons'
 
 /* add icons to the library */
-library.add(faMoon, faSun, faPhp, faHtml5, faJsSquare, faCss3, faVuejs, faLaravel, faNode, faDatabase, faFacebook, faInstagram, faLinkedin)
+library.add(faMoon, faSun, faPhp, faHtml5, faJsSquare, faCss3, faVuejs, faLaravel, faNode, faDatabase, faFacebook, faInstagram, faLinkedin, faBars, faClose)
 import { MotionPlugin } from '@vueuse/motion'
 
 

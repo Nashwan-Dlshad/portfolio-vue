@@ -3,7 +3,7 @@ const props = defineProps({
     class:String,
     title:String,
     description:String,
-    image:String,
+    image:URL,
     link:String,
     x:Number
 })
