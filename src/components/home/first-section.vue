@@ -61,7 +61,7 @@ setInterval(() => {
       class="lg:w-1/2 w-full bg-bprimary dark:bg-gprimary h-full lg:h-screen lg:py-0 py-8 justify-center flex flex-col gap-5 items-center"
     >
      
-        <img ref="target" :style="{transform:cardTransform, transition:'transform 0.25s ease-out'}" src="/assets/img/nashwan.png" alt="" class="lg:w-1/2 w-full rounded-full" />
+        <img ref="target" :style="{transform:cardTransform, transition:'transform 0.25s ease-out'}" src="/img/nashwan.png" alt="" class="lg:w-1/2 w-full rounded-full" />
       <div class="flex flex-col gap-1 text-center">
         <h1 class="lg:text-3xl text-xl text-white letterbyletter">Nashwan Dlshad</h1>
         <h5 class="animateChange  fade text-sm"></h5>

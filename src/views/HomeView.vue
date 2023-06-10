@@ -15,7 +15,7 @@ import toTop from '../components/to-top.vue'
     <FourthSection />
    
     <section class="footer py-2 text-center flex justify-center flex-col items-center gap-2" id="footer">
-      <img src="../assets/img/logo.png" alt="" class="lg:w-32 w-16">
+      <img src="/img/logo.png" alt="" class="lg:w-32 w-16">
       <p class="text-slate-900 dark:text-white lg:text-xl text-xs ">All rights reserved for <a href="https://www.facebook.com/nashwan.hama.1" target="_blank" class="text-bprimary dark:text-gprimary font-bold">Nashwan Dlshad</a> @ 2023</p>
     </section>
 
